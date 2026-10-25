@@ -5,5 +5,14 @@
   "publisherPrefix": "lab",
   "repo": "mcamp016/lab",
   "mainRulesetId": 25828795,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "randomIdentifier": 3068,
+  "devEnvUrl": "https://wm-dev-3068.crm.dynamics.com",
+  "devEnvId": "0b230142-9473-e59d-81a7-c7822ccf6a16",
+  "devOrgId": "96c9538a-98d0-f111-be88-7ced8d71463a",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-3068.crm.dynamics.com",
+  "testEnvId": "2969cd57-92f4-ec7c-b712-d3b6fadcf204",
+  "testOrgId": "da0692f6-99d0-f111-be88-7ced8d714632",
+  "testProfile": "test"
 }
